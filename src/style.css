@@ -1,0 +1,39 @@
+body {
+  background: rgb(226, 226, 226);
+}
+.form {
+  justify-content: center;
+  margin: 100px;
+  background-color: white;
+  border-width: 20px;
+  padding: 20px;
+  
+}
+.header {
+  background-color: blue;
+  color: white;
+  margin: auto;
+  padding: 10px 20px;
+  text-align: justify;
+  font-size: 22px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  justify-content: center;
+  border-color: red;
+  border-radius: 10px;
+  display: flex;
+}
+.username {
+  padding: 10px;
+  margin: 10px;
+  justify-content: center;
+}
+.label {
+  margin-right: 10px;
+  color: rgb(6, 6, 75);
+  font-weight: bold;
+}
+.input {
+  padding: 5px;
+  border-color: rgb(119, 0, 255);
+}
+
